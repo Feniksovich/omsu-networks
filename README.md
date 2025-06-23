@@ -25,7 +25,7 @@
 4. [DHCP. Ретрансляция сообщений DHCP-сервера ↗](4-dhcp.md)  
 
 5. **NAT и PAT**:  
-    5.1. [Network Address Translation (NAT) ↗](5.1-nat.md)
+    5.1. [Network Address Translation (NAT) ↗](5.1-nat.md)  
     5.2. Port Address Translation (PAT)
 
 6. **Перераспределение маршрутов: команда redistribute. Тупиковые области. NSSA.**
