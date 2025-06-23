@@ -26,6 +26,6 @@
 
 5. **NAT и PAT**:  
     5.1. [Network Address Translation (NAT) ↗](5.1-nat.md)  
-    5.2. Port Address Translation (PAT)
+    5.2. [Port Address Translation (PAT) ↗](5.2-pat.md)
 
 6. **Перераспределение маршрутов: команда redistribute. Тупиковые области. NSSA.**
